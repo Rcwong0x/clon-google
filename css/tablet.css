@@ -1,0 +1,27 @@
+.main-navbar {
+    padding: .6rem 1.6rem 0 0;
+
+}
+.main-navbar__right {
+    gap: 1.4rem;
+}
+.main-navbar__icon-apps {
+    height: 2.4rem;
+    width: 2.4rem;
+    opacity: .6;
+    padding: .1rem;
+}
+
+.main-navbar__photo-user {
+    height: 3.2rem;
+    width: 3.2rem;
+    border-radius: 50%;
+    padding: .1rem;
+}
+.searcher-container__image {
+    height: 90px;
+    width: 272px;
+}
+.searcher-container__buttons {
+    display: block;
+}
