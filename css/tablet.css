@@ -24,4 +24,6 @@
 }
 .searcher-container__buttons {
     display: block;
+    display: flex;
+    gap: 16px;
 }
